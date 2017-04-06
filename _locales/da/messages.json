@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": "Overførsels-API'en er kun tilgængelig i dev og beta kanalerne. Opdater Chrome her"
    },
    "contextMenuOpen": {
       "description": "",
@@ -17,7 +17,7 @@
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Kopiér overførelsesink"
+      "message": "Kopiér overførelseslink"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
@@ -41,7 +41,7 @@
    },
    "cancelTitle": {
       "description": "",
-      "message": "Anuller"
+      "message": "Annuller"
    },
    "clearAllTitle": {
       "description": "",
@@ -153,7 +153,7 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Åben Overførelser"
+      "message": "Åbn Overførelser"
    },
    "openDownloadsFolderText": {
       "description": "",
@@ -169,7 +169,7 @@
    },
    "openTitle": {
       "description": "",
-      "message": "Åben"
+      "message": "Åbn"
    },
    "openWhenCompleteDays": {
       "description": "",
@@ -253,7 +253,7 @@
    },
    "searching": {
       "description": "",
-      "message": "Teleporterer en hel masse geders..."
+      "message": "Teleporterer en    masse geder..."
    },
    "showInFolderTitle": {
       "description": "Alt text for show in folder icon",
@@ -261,15 +261,15 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Vis ældre overførelser"
+      "message": "Vis ældre overførsler"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Overførelser"
+      "message": "Overførsler"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h left",
+      "message": "$days$d $hours$t tilbage",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -287,7 +287,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m left",
+      "message": "$hours$t $mins$m tilbage",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s left",
+      "message": "$mins$m $sec$s tilbage",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "$sec$s tilbage",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "Igen overførelser at vise."
+      "message": "Ingen overførelser."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Zero matches"
+      "message": "Nul matches"
    }
 }
